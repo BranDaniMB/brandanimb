@@ -9,7 +9,9 @@ If you need me, feel free to contact me.
 
 <p align="center" title="anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brandanimb&count_private=true&show_icons=true&theme=graywhite" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandanimb&layout=compact&theme=graywhite" />
+</p>
+<p align="center" title="anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandanimb&layout=compact" />
 </p>
 
 
