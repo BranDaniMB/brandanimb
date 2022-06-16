@@ -5,11 +5,13 @@ If you need me, feel free to contact me.
 
 ### Thanks for visit. See you later.
 
-<p align="center" title="anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brandanimb&count_private=true&show_icons=true&theme=graywhite" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,cs,css,bots,figma,firebase,git,github,html,idea,ai,java,js,kotlin,latex,lua,mysql,netlify,nextjs,nodejs,ps,php,py,react,sass,vscode&perline=9" />
+  </a>
 </p>
-<p align="center" title="anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandanimb&layout=compact" />
+<p align="center" title="BranDaniMB#4593">
+  <img src="https://skillicons.dev/icons?i=discord" alt="BranDaniMB#4593" />
 </p>
 
 
