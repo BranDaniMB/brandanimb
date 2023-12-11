@@ -10,8 +10,9 @@ If you need me, feel free to contact me.
     <img src="https://skillicons.dev/icons?i=androidstudio,bootstrap,cs,css,bots,figma,firebase,git,github,html,idea,ai,java,js,kotlin,latex,lua,mysql,netlify,nextjs,nodejs,ps,php,py,react,sass,vscode&perline=9" />
   </a>
 </p>
-<p align="center" title="BranDaniMB#4593">
-  <img src="https://skillicons.dev/icons?i=discord" alt="BranDaniMB#4593" />
+<p align="center" title="brandanimb">
+  <img src="https://skillicons.dev/icons?i=discord" alt="brandanimb" />
+  <span>brandanimb</span>
 </p>
 
 
