@@ -13,7 +13,7 @@ If you need me, feel free to contact me.
 <p align="center" title="brandanimb">
   <img src="https://skillicons.dev/icons?i=discord" alt="brandanimb" />
   <br />
-  <span>brandanimb</span>
+  <span style="font-size: 0.9rem">brandanimb</span>
 </p>
 
 
